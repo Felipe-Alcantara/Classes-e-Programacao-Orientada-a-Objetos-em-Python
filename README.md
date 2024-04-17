@@ -1,0 +1,2 @@
+# Classes-e-Programacao-Orientada-a-Objetos-em-Python
+ Esses dois códigos estão relacionados à gestão de vendas e avaliação de desempenho de vendedores. O primeiro define uma classe chamada Vendedor com métodos para registrar vendas e verificar se um vendedor atingiu uma meta específica. Já o segundo código instancia objetos dessa classe, simula vendas para esses vendedores e verifica se atingiram suas metas de vendas. Em resumo, esses códigos trabalham juntos para modelar o desempenho de vendedores em relação a metas de vendas.
